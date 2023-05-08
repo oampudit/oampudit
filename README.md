@@ -123,19 +123,6 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32" />
  </a>
 </details>
- 
- <details open>
-  <summary>
-  <strong>UI Design</strong> 
- </summary>
-
- <br>
-
- <a style="text-decoration: none;" href="https://www.figma.com/"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32" />
- </a>
-</details>
-
 </details>
 
 <br>
@@ -146,11 +133,11 @@
   </summary>
  <br>
  
-![brownboycodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=brownboycodes&count_private=true&show_icons=true&theme=default)
+![brownboycodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=oampudit&count_private=true&show_icons=true&theme=default)
 
 <br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brownboycodes&langs_count=10&hide=html,css,ejs)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oampudit&langs_count=10&hide=html,css,ejs)](https://github.com/anuraghazra/github-readme-stats)
 
  <br>
 </details>
