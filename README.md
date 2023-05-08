@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pudit Chokmeesuk (Oam), a software developer with experience in C# .NET Framework, Oracle Database (PL/SQL), Flutter (Dart), Firebase, and Unreal Engine 4.
+I'm Pudit Chokmeesuk (Oam), a software developer with experience in C# .NET Framework, Oracle Database (PL/SQL), Flutter (Dart), Firebase, Unreal Engine 4, Angular, TypeScript, HTML, and CSS.
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oampudit)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/oampudit)
@@ -29,6 +29,9 @@ I'm Pudit Chokmeesuk (Oam), a software developer with experience in C# .NET Fram
 <a style="text-decoration: none;" href="https://dart.dev/"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="32" height="32" />
   </a>
+<a style="text-decoration: none;" href="https://www.typescriptlang.org/"> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32" />
+  </a>
 </details>
 
 <details open>
@@ -38,6 +41,9 @@ I'm Pudit Chokmeesuk (Oam), a software developer with experience in C# .NET Fram
 
  <br>
 
+ <a style="text-decoration: none;" href="https://angular.io/"> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="32" height="32" />
+ </a>
  <a style="text-decoration: none;" href="https://flutter.dev/"> 
   <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/flutter/flutter-original.svg" alt="flutter" width="32" height="32"/>
  </a>
@@ -45,25 +51,34 @@ I'm Pudit Chokmeesuk (Oam), a software developer with experience in C# .NET Fram
 
 <details open>
  <summary>
-    <strong>Databases</strong> 
+    <strong>Web Technologies</strong> 
  </summary>
 
  <br>
 
+ <a style="text-decoration: none;" href="https://www.w3.org/html/"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32" />
+ </a>
+ <a style="text-decoration: none;" href="https://www.w3schools.com/css/"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css33-original.svg" alt="css3" width="32" height="32" />
+</a>
+
+</details>
+<details open>
+ <summary>
+    <strong>Databases</strong> 
+ </summary>
+ <br>
  <a style="text-decoration:none" href="https://www.oracle.com/database/"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="32" height="32" />
  </a>
  </a>
-
 </details>
-
 <details open>
   <summary>
    <strong>Version Control Systems</strong> 
   </summary>
-
 <br>
-
  <a style="text-decoration: none;" href="https://git-scm.com"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="32" height="32" />
  </a>
@@ -72,22 +87,21 @@ I'm Pudit Chokmeesuk (Oam), a software developer with experience in C# .NET Fram
  </a>
  </a>
 </details>
-
 <br>
-
 <details open>
   <summary>
    <strong>Other Skills</strong> 
  </summary>
-  
  <br>
-
  <a style="text-decoration: none;" href="https://www.unrealengine.com/"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="32" height="32" />
  </a>
 </details>
 </details>
 <br>
+
+             
+             
  <details open>
   <summary>
     <strong>My GitHub stats</strong> 
