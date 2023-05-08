@@ -56,7 +56,7 @@ I'm Pudit Chokmeesuk (Oam), a software developer with experience in C# .NET Fram
 
  <br>
 
- <a style="text-decoration: none;" href="https://www.w3.org/html/"> 
+ <a style="text-decoration: none;" href="https://www.w3schools.com/html/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32" />
  </a>
  <a style="text-decoration: none;" href="https://www.w3schools.com/css/"> 
