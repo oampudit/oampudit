@@ -60,7 +60,7 @@ I'm Pudit Chokmeesuk (Oam), a software developer with experience in C# .NET Fram
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32" />
  </a>
  <a style="text-decoration: none;" href="https://www.w3schools.com/css/"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css33-original.svg" alt="css3" width="32" height="32" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32" />
 </a>
 
 </details>
