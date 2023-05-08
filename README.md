@@ -87,11 +87,12 @@ I'm Pudit Chokmeesuk (Oam), a software developer with experience in C# .NET Fram
 </details>
 </details>
 <br>
-<details open>
+ <details open>
   <summary>
     <strong>My GitHub stats</strong> 
   </summary>
  <br>
+ 
 ![brownboycodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=oampudit&count_private=true&show_icons=true&theme=default)
 
 <br>
