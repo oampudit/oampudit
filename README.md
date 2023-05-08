@@ -74,6 +74,7 @@ I'm Pudit Chokmeesuk (Oam), a software developer with experience in C# .NET Fram
  </a>
  </a>
 </details>
+
 <details open>
   <summary>
    <strong>Version Control Systems</strong> 
@@ -85,6 +86,8 @@ I'm Pudit Chokmeesuk (Oam), a software developer with experience in C# .NET Fram
  <a style="text-decoration: none;" href="https://github.com/"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="32" height="32" />
  </a>
+ <a style="text-decoration: none;" href="https://gitlab.com/"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="32" height="32" />
  </a>
 </details>
 <br>
